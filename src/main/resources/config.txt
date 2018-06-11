@@ -1,0 +1,2 @@
+export XAP_GSC_OPTIONS='-Xmx10g'
+./gs-agent.sh
