@@ -1,4 +1,4 @@
-package com.aa.model;
+package org.ignite.model;
 
 import com.gigaspaces.annotation.pojo.SpaceClass;
 import com.gigaspaces.annotation.pojo.SpaceId;

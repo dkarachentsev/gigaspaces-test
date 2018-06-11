@@ -1,7 +1,7 @@
-package com.aa.data.gigaspaces;
+package org.ignite.data.gigaspaces;
 
-import com.aa.data.Generator;
-import com.aa.model.FcOutput;
+import org.ignite.data.Generator;
+import org.ignite.model.FcOutput;
 import java.util.Map;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

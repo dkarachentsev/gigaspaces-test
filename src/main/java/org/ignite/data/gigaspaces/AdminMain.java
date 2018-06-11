@@ -1,4 +1,4 @@
-package com.aa.data.gigaspaces;
+package org.ignite.data.gigaspaces;
 
 import java.util.concurrent.TimeUnit;
 import org.openspaces.admin.Admin;

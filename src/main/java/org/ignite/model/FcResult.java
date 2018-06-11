@@ -1,4 +1,4 @@
-package com.aa.model;
+package org.ignite.model;
 
 import java.io.Serializable;
 

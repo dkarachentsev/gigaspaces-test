@@ -1,4 +1,4 @@
-package com.aa.data.ignite;
+package org.ignite.data.ignite;
 
 import java.util.Collections;
 import org.apache.ignite.Ignition;

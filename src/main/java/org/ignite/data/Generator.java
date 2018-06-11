@@ -1,6 +1,6 @@
-package com.aa.data;
+package org.ignite.data;
 
-import com.aa.model.FcOutput;
+import org.ignite.model.FcOutput;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -27,7 +27,6 @@ public class Generator implements Iterable<Map<Long, FcOutput>> {
     }
 
     private static class FcIterator implements Iterator<Map<Long, FcOutput>> {
-        private long intCnt;
         private AtomicLong cnt;
         private final long max;
 

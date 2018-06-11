@@ -1,8 +1,8 @@
-package com.aa.dataload;
+package org.ignite.dataload;
 
 import org.apache.ignite.Ignite;
 import org.apache.ignite.lang.IgniteRunnable;
-import com.aa.model.FcstRunnable;
+import org.ignite.model.FcstRunnable;
 
 public class FcstWorkers implements Runnable {
 
